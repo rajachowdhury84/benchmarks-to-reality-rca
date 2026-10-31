@@ -1,0 +1,8 @@
+# Python 3.12 (RCAEval's documented version)
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.5.2
+# only for downloading RE1 with RCAEval's utility (steps 01 and 06)
+requests==2.34.2
+tqdm==4.70.0
